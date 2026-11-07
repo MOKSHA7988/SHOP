@@ -1,0 +1,6 @@
+{
+  "name": "ShopEase – E-commerce Management System",
+  "description": "Modern responsive e-commerce website and full management system featuring customer store, cart, checkout, order tracking, admin dashboard, analytics, and MongoDB Query Lab.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
